@@ -1,0 +1,11 @@
+{
+  "name": "expressBookReviews-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test:server": "node tester.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}

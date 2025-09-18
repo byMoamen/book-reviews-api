@@ -1,5 +1,5 @@
 
-# expressBookReviews — project root
+# expressBookReviews - project root
 
 This repository contains the lab starter app (in `final_project/`) and a small test harness (`tester.js`) that exercises the public and authenticated endpoints.
 

@@ -7,7 +7,7 @@ Quick start
 1. Install dependencies for the tester (root):
 
 ```bash
-cd /Users/mo/Desktop/assignment/expressBookReviews
+cd /Users/{$user}/Desktop/assignment/expressBookReviews
 npm install
 ```
 
